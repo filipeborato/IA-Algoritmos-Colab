@@ -1,0 +1,29 @@
+Trabalho Bimestral
+
+Olá pessoal, segue a descrição do trabalho.
+
+Encontrar uma base de dados;
+
+Importar a base de dados para uso de uma RNA;
+
+Configurar, padronizar, treinar, testar e avaliar o desempenho da RNA;
+
+Testar mais de um tipo de func¸a~o de ativac¸a~o, e algoritmos de erro;
+
+Escrever um relato´rio contendo as informac¸o~es da base de dados utilizada, tipos de algoritmos, taxa de erro, e avaliac¸a~o da rede implementada.
+
+Arquivos devera~o estar no formato .zip (.ipynb e .txt ou .doc do relato´rio).
+
+Entrega para dia 12/05 ate´ as 23:59.
+
+O trabalho pode ser feito em duplas (2 alunos).
+
+A nota desse bimestre será composta das seguintes atividades:
+
+trabalho bimestral --------------------------------------5,0 pts
+trabalho do Homer ---------------------------------------1,0 pt
+artigo cientifico (apenas a apresentação e artigo fonte) 1,0 pt
+atividades aula 24/03 (tensorflow) --------------------- 0,5 pt
+atividades aula 31/03 (calculo neurônio e placeholders)- 0,5 pt
+atividade aula 07/04 (alg. regressão linear) ----------- 2,0 pts
+* Todas as atividades podem ser entregues até 12/05.

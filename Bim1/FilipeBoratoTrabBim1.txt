@@ -1,0 +1,21 @@
+# Resultado
+Foi utilizado uma base de dados nativa do Sklearn de vinhos (wine). Foi proposto pelo estudo que, com 4 parâmetros de entreda pudessemos perver se um liquido é vinho ou não.
+As 4 entradas: Alcohol - Malic - acid - Color intensity - Proline
+Conseguimos chegar em uma taxa de acerto de 96,3%. Isso quer dizer que a rede neural consegue reconhecer vinhos por esses 4 parametros e com 96% de acerto utilizando a função de ativação Softmax, com um otimizador de erro de learning_rate = 0.0001
+
+% de outras f de Ativação e taxas de erros:
+
+- Sigmoid - Acerto = 68,5
+	learning_rate = 0.0001
+
+- Softmax - Acerto = 96,3% -
+learning_rate = 0.0001
+
+- Sigmoid - Acerto = 50% -
+	learning_rate = 0.000001
+
+- Sigmoid - Acerto = 90,7% -
+	learning_rate = 0.01
+
+- Softmax - Acerto = 85,15% -
+	learning_rate = 0.01
